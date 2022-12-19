@@ -1,0 +1,5 @@
+review_post,removed_special_charas_review_post,to_lower_case_review_post,removed_stop_words_review_post,lemmatized_words_review_post,NOUN,ADJ,ADV,PROPN,VERB,X,sent_analysis
+I wanna go strawberry picking,I wanna go strawberry picking,i wanna go strawberry picking,wanna strawberry picking,wanna strawberry picking,0,0,0,2,1,0,Neutral
+I wanna go boating and biking,I wanna go boating and biking,i wanna go boating and biking,wanna boating biking,wanna boating biking,1,0,0,1,1,0,Neutral
+Worship God in a Church and pray!,Worship God in a Church and pray ,worship god in a church and pray ,worship god church pray,worship god church pray,2,0,0,1,1,0,Neutral
+market place since I wanna buy strawberry jam and ube jam at affordable prices,market place since I wanna buy strawberry jam and ube jam at affordable prices,market place since i wanna buy strawberry jam and ube jam at affordable prices,market place wanna buy strawberry jam ube jam affordable prices,market place wanna buy strawberry jam ube jam affordable price,2,1,0,6,1,0,Neutral
